@@ -44,5 +44,5 @@ moz-youtube playlist get
 
 ## Develop
 
-base project: [mozkzki/moz-sample](https://github.com/mozkzki/moz-sample)
-use project: [mozkzki/moz-youtube](https://github.com/mozkzki/moz-youtube)
+- base project: [mozkzki/moz-sample](https://github.com/mozkzki/moz-sample)
+- use project: [mozkzki/moz-youtube](https://github.com/mozkzki/moz-youtube)
